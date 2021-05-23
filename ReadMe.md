@@ -1,4 +1,7 @@
-<h1>GL💡W-a Education Website</h1>
+<h1>GL💡W- An Educational Website</h1>
+
+This website is live [here](https://kumarimansi.github.io/EducationWebsite/)
+
 I have created a complete responsive website design which can be used by any startup for the front-end part.
 <br>The theme of the website is about upgrading your skills.
 
